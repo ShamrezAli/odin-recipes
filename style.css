@@ -1,0 +1,35 @@
+.heading {
+    font-size: 45px;
+    color: rgb(23, 21, 21);
+    background-color:rgb(249, 179, 249);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.overall{
+    background-color:rgb(237, 160, 234)
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.words {
+    font-size: 25px;
+    background-color:rgb(237, 160, 234);
+    font-family:"Franklin Gothic Medium", sans-serif;
+}
+
+.subheading {
+    font-size: 33px;
+    background-color:rgb(249, 179, 249);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+     font-size: 25px;
+     background-color:rgb(249, 179, 249);
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+   
