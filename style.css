@@ -33,3 +33,25 @@ a {
      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
    
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+.linkcenter {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    display: block;
+    width: 200px;
+    border: 5px solid #8417cc;
+    padding: 30px 30px 30px 40px;
+    background-color:rgb(249, 179, 249);
+
+}
+
+.catborder {
+    border: 5px solid #8417cc
+}
